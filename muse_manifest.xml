@@ -1,0 +1,94 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1599602553113">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="418725205" ref="jan-7:febuary:vol-1:books:jan-13:jan-8:jan-14:january:jan-9:jan-5:jan-6:jan-3:home:jan-11:jan-2:jan-12:jan-10:jan-1:calendar:jan-4"/>
+    <file name="jan-7.css" crc="131055523" ref="jan-7"/>
+    <file name="febuary.css" crc="4073599049" ref="febuary"/>
+    <file name="vol-1.css" crc="521073438" ref="vol-1"/>
+    <file name="index.css" crc="279720956" ref="index"/>
+    <file name="books.css" crc="71918265" ref="books"/>
+    <file name="jan-13.css" crc="4254541306" ref="jan-13"/>
+    <file name="jan-8.css" crc="3847506860" ref="jan-8"/>
+    <file name="jan-14.css" crc="441263232" ref="jan-14"/>
+    <file name="january.css" crc="495821618" ref="january"/>
+    <file name="jan-9.css" crc="370701601" ref="jan-9"/>
+    <file name="jan-5.css" crc="3915411609" ref="jan-5"/>
+    <file name="jan-6.css" crc="450432987" ref="jan-6"/>
+    <file name="jan-3.css" crc="383587934" ref="jan-3"/>
+    <file name="home.css" crc="3981009954" ref="home"/>
+    <file name="jan-11.css" crc="4124894683" ref="jan-11"/>
+    <file name="jan-2.css" crc="3860808321" ref="jan-2"/>
+    <file name="jan-12.css" crc="76535538" ref="jan-12"/>
+    <file name="jan-10.css" crc="530005117" ref="jan-10"/>
+    <file name="jan-1.css" crc="4147178635" ref="jan-1"/>
+    <file name="calendar.css" crc="461295925" ref="calendar"/>
+    <file name="jan-4.css" crc="4003001145" ref="jan-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="vol.-1-benjamin-franklin,-john-woolma---benjamin-franklin---william-pe_9943.pdf" crc="163614625" seo="true" mt="1482134873000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:calendar:books:january:index:febuary:jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6:vol-1"/>
+    <file name="museutils.js" crc="3939489907" ref="home:calendar:books:january:index:febuary:jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6:vol-1"/>
+    <file name="whatinput.js" crc="86476730" ref="home:calendar:books:january:index:febuary:jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6:vol-1"/>
+    <file name="museconfig.js" crc="128606099" ref="home:calendar:books:january:index:febuary:jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6:vol-1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="home:jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6"/>
+    <file name="jquery.watch.js" crc="522499760" ref="home:calendar:books:january:index:febuary:jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6:vol-1"/>
+    <file name="require.js" crc="4177726516" ref="home:calendar:books:january:index:febuary:jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6:vol-1"/>
+  </folder>
+  <folder name="images">
+    <file name="u4512-4.png" crc="4257046282" ref="home"/>
+    <file name="logo68x74.png" crc="74840256" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="books_button-book.png" crc="11404393" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="books_button-bookclick.png" crc="3858300240" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="calendar_button-calendar.png" crc="66796517" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="calendar_button-calendarclick.png" crc="354065213" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="streek.png" crc="4204931925" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="line.png" crc="4254443790" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="logo.png" crc="76557904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2307-4.png" crc="4257046282" ref="index"/>
+    <file name="next_button-shape 2.png" crc="3973796506" ref="jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6">
+      <caption webpage="jan-1" alt=""/>
+    </file>
+    <file name="back_button-shape 2.png" crc="120437899" ref="jan-1:jan-2:jan-3:jan-4:jan-5:jan-14:jan-13:jan-12:jan-11:jan-10:jan-9:jan-8:jan-7:jan-6">
+      <caption webpage="jan-1" alt=""/>
+    </file>
+  </folder>
+  <file name="home.html" crc="4008156360" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="calendar.html" crc="55029530" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="books.html" crc="4252799021" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="january.html" crc="4041999149" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="index.html" crc="80752405" seo="true" mt="1599594716341" redirect="true"/>
+  <file name="febuary.html" crc="4122574398" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-1.html" crc="117928501" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-2.html" crc="3845534530" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-3.html" crc="67295258" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-4.html" crc="272408630" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-5.html" crc="3876036603" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-14.html" crc="3790502379" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-13.html" crc="4080794984" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-12.html" crc="123611932" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-11.html" crc="3933349066" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-10.html" crc="340592663" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-9.html" crc="3877248805" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-8.html" crc="20129881" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-7.html" crc="285650499" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="jan-6.html" crc="29003378" seo="true" mt="1599597966826" redirect="true"/>
+  <file name="vol-1.html" crc="3966084615" seo="true" mt="1599597966826" redirect="true"/>
+</manifest>
